@@ -2,12 +2,12 @@ h1 {
   font-family: "Montserrat", sans-serif;
   text-align: left;
   font-size: 20 px;
-  font-weight: 200px;
+  font-weight: 80px;
   padding: 0, 20, 0, 20;
 }
 h2 {
   font-family: "Montserrat", sans-serif;
-  font-weight: 200;
+  font-weight: 80;
 }
 
 h3 {
@@ -50,3 +50,5 @@ button {
   font-family: "Montserrat", sans-serif;
   padding: 10px;
 }
+
+ul { list-style-type: none;}
